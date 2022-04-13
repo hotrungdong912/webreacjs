@@ -1,0 +1,3 @@
+.vh80{
+    max-height: calc(100vh - 100px);
+  }
